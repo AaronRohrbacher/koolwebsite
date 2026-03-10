@@ -36,6 +36,13 @@ export default function Home() {
             </div>
           ))}
         </div>
+
+        <a
+          href="/weather"
+          className="mt-4 rounded-lg border border-white/10 bg-white/5 px-6 py-3 text-sm font-medium text-zinc-300 backdrop-blur-sm transition-all hover:border-fuchsia-500/30 hover:bg-white/10 hover:text-white"
+        >
+          🌤️ Weather Lookup &rarr;
+        </a>
       </main>
 
       <footer className="absolute bottom-8 text-sm text-zinc-600">

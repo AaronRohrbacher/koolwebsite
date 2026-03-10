@@ -14,7 +14,7 @@ You'll need AWS access keys from Aaron. He'll provide you with credentials via t
 Once you have your **Access Key ID** and **Secret Access Key**, configure a profile:
 
 ```bash
-aws configure --profile gaurav
+aws configure --profile lucas
 ```
 
 It will prompt you for:
